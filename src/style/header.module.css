@@ -1,0 +1,69 @@
+.frame {
+  align-items: center;
+  background-color: var(--a);
+  display: flex;
+  gap: 316px;
+  height: 100px;
+  justify-content: center;
+  position: relative;
+  width: 1440px;
+}
+
+.div {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 85px;
+  justify-content: center;
+  position: relative;
+}
+
+.div2 {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  padding: 0px 0px 0px 25px;
+  position: relative;
+  width: 438px;
+}
+
+.textWrapper {
+  color: #292d32;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.divWrapper {
+  align-items: center;
+  background-color: var(--b);
+  border-radius: 20px;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: center;
+  left: 306px;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.textWrapper2 {
+  color: #054a83;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 5px 10px;
+}

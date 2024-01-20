@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.App {
+  text-align: center;
+}
+.dark-theme {
+  background-color: black;
+  color: aliceblue;
+}

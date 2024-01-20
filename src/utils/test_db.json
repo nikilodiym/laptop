@@ -1,0 +1,112 @@
+{
+  "notebook": [
+    {
+      "id": 4,
+      "name": "Ноутбук Lenovo ThinkPad",
+      "img": "https://www.pngitem.com/pimgs/b/190-1901187_i-have-a-mac-laptop-mac-laptop-en.png",
+      "brand": "Lenovo",
+      "price": 1199.99,
+      "screenSize": 15.6,
+      "processor": "Intel Core i5",
+      "ram": 8,
+      "storage": "512GB SSD",
+      "category": "Ноутбуки"
+    },
+    {
+      "id": 5,
+      "name": "Ноутбук ASUS VivoBook",
+      "img": "https://purepng.com/public/uploads/large/purepng.com-laptopelectronicslaptopcomputer-941524676166s0nuj.png",
+      "brand": "ASUS",
+      "price": 799.99,
+      "screenSize": 14,
+      "processor": "Intel Core i3",
+      "ram": 4,
+      "storage": "256GB SSD",
+      "category": "Ноутбуки"
+    },
+    {
+      "id": 6,
+      "name": "Ноутбук Apple MacBook Air",
+      "img": "https://pngfre.com/wp-content/uploads/laptop-png-from-pngfre-22.png",
+      "brand": "Apple",
+      "price": 1299.99,
+      "screenSize": 13.3,
+      "processor": "Apple M1",
+      "ram": 8,
+      "storage": "256GB SSD",
+      "category": "Ноутбуки"
+    },
+    {
+      "id": 7,
+      "name": "Ноутбук MSI GS66 Stealth",
+      "img": "https://royaltyfreefootages.com/upload/video/Apple%20laptop%20PNG%20image,%20transparent%20Apple%20laptop%20png%20image,%20Apple%20laptop%20png%20hd%20images%20download_1658745513.png",
+      "brand": "MSI",
+      "price": 1699.99,
+      "screenSize": 15.6,
+      "processor": "Intel Core i9",
+      "ram": 32,
+      "storage": "1TB SSD",
+      "category": "Ноутбуки"
+    },
+    {
+      "id": 8,
+      "name": "Ноутбук Razer Blade 15",
+      "img": "https://www.freepnglogos.com/uploads/laptop-png/acer-aspire-laptop-review-decent-budget-laptop-37.png",
+      "brand": "Razer",
+      "price": 1999.99,
+      "screenSize": 15.6,
+      "processor": "Intel Core i7",
+      "ram": 16,
+      "storage": "1TB SSD",
+      "category": "Ноутбуки"
+    },
+    {
+      "id": 9,
+      "name": "Ноутбук LG Gram 17",
+      "img": "https://www.chuwi.com/public/upload/image/20230222/29d268dc222828ee349f7695c76be8d6.png",
+      "brand": "LG",
+      "price": 1499.99,
+      "screenSize": 17,
+      "processor": "Intel Core i5",
+      "ram": 8,
+      "storage": "512GB SSD",
+      "category": "Ноутбуки"
+    },
+    {
+      "id": 10,
+      "name": "Ноутбук Huawei MateBook X Pro",
+      "img": "https://www.pngall.com/wp-content/uploads/8/Lenovo-Laptop-PNG-Clipart.png",
+      "brand": "Huawei",
+      "price": 1299.99,
+      "screenSize": 13.9,
+      "processor": "Intel Core i7",
+      "ram": 16,
+      "storage": "512GB SSD",
+      "category": "Ноутбуки"
+    },
+    {
+      "id": 11,
+      "name": "Ноутбук Microsoft Surface Laptop 4",
+      "img": "https://www.pngall.com/wp-content/uploads/8/Lenovo-Laptop-PNG-Free-Download.png",
+      "brand": "Microsoft",
+      "price": 1399.99,
+      "screenSize": 13.5,
+      "processor": "Intel Core i5",
+      "ram": 8,
+      "storage": "256GB SSD",
+      "category": "Ноутбуки"
+    },
+    {
+      "name": "Ноутбук Test",
+      "img": "https://freepngimg.com/save/162062-photos-laptop-top-view-free-download-png-hq/838x787",
+      "brand": "ASUS",
+      "price": 2000,
+      "screenSize": 14,
+      "processor": "AMD Ryzen 11119",
+      "ram": 312,
+      "storage": "21TB SSD",
+      "category": "Ноутбуки",
+      "id": 16
+    }
+  ]
+}
